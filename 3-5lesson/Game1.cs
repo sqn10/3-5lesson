@@ -21,6 +21,7 @@ namespace _3_5lesson
         {
             // TODO: Add your initialization logic here
 
+            // silly comment
             base.Initialize();
         }
 
